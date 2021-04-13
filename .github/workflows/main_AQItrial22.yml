@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'AQItrial22'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_58cdfc0f237c46a9aac08e598b42ae3e }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d20183431a854547ac3fa78bd08bd552 }}
